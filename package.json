@@ -1,8 +1,8 @@
 {
-  "name": "drinkmaster-teamproject",
+  "name": "drink-master-teamproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ViktoriaRosovska.github.io/drinkmaster-teamproject/",
+  "homepage": "https://github.com/InnaTereschenko/Drink-Master-teamproject",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
